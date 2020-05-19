@@ -5,4 +5,4 @@ das
 git has a mutable index called stage
 git 多了第六行
 :
-123
+123,撤销修改练习吧
