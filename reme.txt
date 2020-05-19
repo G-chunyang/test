@@ -4,3 +4,4 @@
 das
 git has a mutable index called stage
 git 多了第六行
+: 
