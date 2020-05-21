@@ -6,4 +6,4 @@ git has a mutable index called stage
 git 多了第六行
 123,撤销修改练习吧
 分支添加这一句话
-这句话添加到github上,分支冲突练习
+这句话添加到github上,分支冲突练习 1
